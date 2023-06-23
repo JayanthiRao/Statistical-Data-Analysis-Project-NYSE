@@ -1,1 +1,1 @@
-# Project-NYSE---Masterschool
+# Statistical Data Analysis Project -NYSE
